@@ -2,7 +2,7 @@
   "name": "repolocalwithparcel",
   "version": "1.0.0",
   "description": "First try with Parcel",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
